@@ -7,3 +7,6 @@ spring:
       server:
         git:
            uri: https://github.com/jirsis/poc-spring-cloud
+           
+encrypt: 
+  key: jirsis
