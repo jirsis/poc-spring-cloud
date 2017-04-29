@@ -1,0 +1,12 @@
+server:
+  port: 1337
+  
+spring:
+  application:
+    name: application
+  cloud:
+    config:
+      #uri: https://github.com/jirsis/poc-spring-cloud
+      uri: http://localhost:8888/
+      label: properties
+  
