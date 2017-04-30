@@ -8,6 +8,5 @@ spring:
     config:
       #uri: https://github.com/jirsis/poc-spring-cloud
       uri: http://localhost:8888/
-#      label: properties
-      label: atrybut
+      label: properties
   
